@@ -1,4 +1,6 @@
-# node_react_aws_signed_upload
+# node-react-aws-signed-upload
+
+Very silly app do all what you need to add (s3 upload) for any file type in your app
 
 ## setup
 
@@ -16,3 +18,8 @@
 - Navigate to `sample-image-upload/`
 - Run `yarn install` || `npm install`
 - Run `yarn start` || `npm start`
+
+## Prerequisites
+
+You need to setup your s3 server(This include setup Cors and public access level)
+Try search how to do it, its very simple and many articles touches it out there.

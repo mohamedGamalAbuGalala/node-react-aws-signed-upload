@@ -1,6 +1,18 @@
 {
-  "name": "node_react_aws_signed_upload",
+  "name": "node-react-aws-signed-upload",
   "version": "0.0.1",
+  "author": {
+    "name": "Mohamed Gamal",
+    "email": "mohamed.abugalala@gmail.com"
+  },
+  "description": "Very silly app do all what you need to add (s3 upload) for any file type in your app",
+  "keywords": [
+    "aws",
+    "S3",
+    "aws s3",
+    "s3 signed url upload",
+    "signed url"
+  ],
   "scripts": {
     "start": "node app.js"
   },
