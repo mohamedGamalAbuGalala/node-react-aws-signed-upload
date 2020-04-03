@@ -16,9 +16,9 @@ array-flatten@1.1.1:
   integrity sha1-ml9pkFGx5wczKPKgCJaLZOopVdI=
 
 aws-sdk@2.x:
-  version "2.610.0"
-  resolved "https://registry.yarnpkg.com/aws-sdk/-/aws-sdk-2.610.0.tgz#a8633204bed83df763095824f8110ced4a717d2a"
-  integrity sha512-kqcoCTKjbxrUo2KeLQR2Jw6l4PvkbHXSDk8KqF2hXcpHibiOcMXZZPVe9X+s90RC/B2+qU95M7FImp9ByMcw7A==
+  version "2.652.0"
+  resolved "https://registry.yarnpkg.com/aws-sdk/-/aws-sdk-2.652.0.tgz#00a4dd3a4ce588448895c42d25e967f2a23b487c"
+  integrity sha512-THMlf3CX/IKMh+jizDQ+XCf5LSp1x+rIl+4uIRJjMj+zHNes7zJy3DSkuu5gux5aG5x4God996vPdCus+F22JA==
   dependencies:
     buffer "4.9.1"
     events "1.1.1"
