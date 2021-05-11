@@ -19,7 +19,7 @@
   "dependencies": {
     "aws-sdk": "2.x",
     "cors": "^2.8.5",
-    "dotenv": "^8.2.0",
+    "dotenv": "^9.0.2",
     "express": "4.x",
     "mime-types": "^2.1.26",
     "uuid": "^3.4.0"
